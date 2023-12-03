@@ -1,6 +1,6 @@
 👋 Hey there! I'm Prabhansh, a Python enthusiast and college student passionate about the world of coding. Currently immersed in the magic of Python, I'm on a journey of continuous learning and exploration.
 
-🎓 As a student, my days are a mix of classes, coding, and coffee. I love the challenge of turning ideas into code and solving real-world problems. You'll find my repositories filled with Python projects reflecting my journey through the language's versatile landscape.
+🎓 As a student, my days are a mix of classes, coding, and chai. I love the challenge of turning ideas into code and solving real-world problems. You'll find my repositories filled with Python projects reflecting my journey through the language's versatile landscape.
 
 🚀 Beyond coding, I have a soft spot for teaching. Sharing knowledge is one of my favorite things, and I believe in the transformative power of education. If you have questions about Python or want to explore coding concepts together, feel free to reach out. I'm here to help!
 
