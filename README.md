@@ -1,4 +1,3 @@
-Certainly, here's a shorter version:
 
 - 👋 Hey there! I'm Prabhansh, a Python enthusiast and college student.
 - 🎓 I love turning ideas into code and solving real-world problems.
