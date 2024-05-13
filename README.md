@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms(DSA) & Web Development**
 
-- 📫 How to reach me **prabhanshtiwari@gmail.com**
+- 📫 How to reach me **prabhanshtiwari2002@gmail.com**
 
 - Did you know? **Programming is like magic: you create something out of nothing, just with your mind and a keyboard.**
 
