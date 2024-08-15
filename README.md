@@ -34,6 +34,7 @@
 </p>
 
 <h2>My GitHub Stats</h2>
-<span>&nbsp;<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&locale=en" alt="prabhanshtiwari" /></span>
 
-<span><img style="margin-top = 0" align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhanshtiwari&show_icons=true&locale=en&layout=compact" alt="prabhanshtiwari" /></span>
+<a href="https://github.com/prabhanshtiwari/github-readme-stats"><img alt="Prabhansh Tiwari Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<a href="https://github.com/prabhanshtiwarri/github-readme-stats"><img alt="Prabhansh Tiwari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhanshtiwari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
