@@ -26,8 +26,11 @@
   <li>Calculator Basic - <a href="https://prabhanshtiwari.github.io/calculator/">Link</a></li>
 </ol>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhanshtiwari&show_icons=true&locale=en&layout=compact" alt="prabhanshtiwari" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhanshtiwari&" alt="prabhanshtiwari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&locale=en" alt="prabhanshtiwari" /></p>
+<h2>My GitHub Stats</h2>
+<span>&nbsp;<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&locale=en" alt="prabhanshtiwari" /></span>
+
+<span><img style="margin-top = 0" align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhanshtiwari&show_icons=true&locale=en&layout=compact" alt="prabhanshtiwari" /></span>
