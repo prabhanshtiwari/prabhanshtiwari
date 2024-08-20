@@ -23,7 +23,7 @@
 
 <h2>Projects</h2>
 <ol>
-  <li>Calculator Basic - <a href="https://prabhanshtiwari.github.io/calculator/">Link</a></li>
+  <li>Calculator Basic - <a href="https://prabhanshtiwari.github.io/simple-calculator/">Link</a></li>
 </ol>
 
 
