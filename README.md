@@ -28,13 +28,15 @@
 </ol>
 
 
+
+
+<h2>My GitHub Stats</h2>
+
 <p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=prabhanshtiwari&">
         <img title="prabhanshtiwari" alt="Prabhansh Tiwari streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhanshtiwari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-<h2>My GitHub Stats</h2>
 
 <a href="https://github.com/prabhanshtiwari/github-readme-stats"><img alt="Prabhansh Tiwari Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
