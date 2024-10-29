@@ -23,8 +23,8 @@
 
 <h2>Projects</h2>
 <ol>
+  <li>Portfolio - <a href="https://prabhanshtiwari.netlify.app/" target="_blank">Link</a></li>
   <li>Calculator Basic - <a href="https://prabhanshtiwari.github.io/simple-calculator/" target="_blank">Link</a></li>
-<!--   <li>Portfolio - <a href="https://prabhanshtiwari.netlify.app/" target="_blank">Link</a></li> -->
 </ol>
 
 
