@@ -21,3 +21,11 @@ I'm **Prabhansh Tiwari**, an aspiring Full-Stack Developer and a university stud
 - 💻 Programming: C++, Python, JavaScript
 - 🌐 Web Development: HTML, CSS
 - ⚙️ Tools: Git, VS Code
+
+---
+
+📂 **Projects:**
+- 📌 [Project 1: Portfolio Website](https://prabhanshtiwari.netlify.app/)
+  - A personal portfolio showcasing my skills and projects.
+
+---
