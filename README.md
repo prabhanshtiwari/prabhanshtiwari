@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm **Prabhansh Tiwari**, an aspiring Full-Stack Developer and a university student passionate about coding and content creation.
+I'm **Prabhansh Tiwari**, an aspiring Full-Stack Developer and a student passionate about coding.
 
 ---
 
