@@ -35,7 +35,7 @@ I'm **Prabhansh Tiwari**, an aspiring Full-Stack Developer and a student passion
 ---
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prabhanshtiwari&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![prabhanshtiwari's Stats](https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 ### 📊 GitHub Stats
