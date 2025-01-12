@@ -32,17 +32,19 @@ I'm **Prabhansh Tiwari**, an aspiring Full-Stack Developer and a student passion
 - 📌 [Project 1: Portfolio Website](https://prabhanshtiwari.netlify.app/)
   - A personal portfolio showcasing my skills and projects.
 
+- 📌 [Project 2: TravelPro](https://prabhanshtiwari.github.io/TravelPro/)
+  - Travel Pro is a sleek, mobile-responsive travel website built with Tailwind CSS, designed for effortless journey planning and exploration.
+
 ---
 
 ### 🔥 GitHub Streak
-![prabhanshtiwari's Stats](https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prabhanshtiwari&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-<!--
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhanshtiwari&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 ---
 
