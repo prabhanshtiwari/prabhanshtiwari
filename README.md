@@ -1,5 +1,9 @@
 ![GitHub Banner](https://raw.githubusercontent.com/prabhanshtiwari/prabhanshtiwari/refs/heads/main/DALL%C2%B7E%202025-01-03%2011.20.52%20-%20A%20modern%2C%20clean%2C%20and%20tech-themed%20banner%20illustration%20for%20a%20GitHub%20profile.%20The%20design%20features%20a%20full-stack%20developer%20working%20on%20a%20laptop%2C%20surrounded%20.webp)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prabhanshtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="prabhanshtiwari" />
+</p>
+
 
 Hi there! 👋
 
