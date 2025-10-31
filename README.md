@@ -3,6 +3,31 @@
 <h1 align="center">👋 Hi, I'm Prabhansh Tiwari</h1>
 <h3 align="center">Aspiring Full Stack Developer | Passionate Learner | Problem Solver</h3>
 
+<p align="center">
+  <a href="mailto:prabhansh.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/prabhanshtiwari">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/prabhanshtiwari">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/prabhanshdev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/prabhanshtiwari2004">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://prabhanshtiwari.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://wa.me/918953879027" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+
 
 ## 🧾 Summary  
 Aspiring Full Stack Developer passionate about building scalable web applications and writing clean, efficient code. Skilled in **JavaScript, Node.js, and SQL**, with hands-on experience in both **frontend** and **backend** development.  Dedicated to continuous learning and creating impactful projects using modern technologies.
@@ -83,32 +108,6 @@ Aspiring Full Stack Developer passionate about building scalable web application
 | 2 | **Personal Portfolio Website** | HTML, CSS, Tailwind CSS, JavaScript | [Repo](https://github.com/prabhanshtiwari/Portfolio) | [Live](https://prabhanshtiwari.netlify.app/) |
 | 3 | *(Add More...)* | *(Tech Stack)* | [Repo](#) | [Live](#) |
 
-
-## 🔗 Connect With Me  
-
-<p align="center">
-  <a href="mailto:prabhansh.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/prabhanshtiwari">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/prabhanshtiwari">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/prabhansh_tiwari">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/prabhansh.tiwari">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://prabhanshtiwari.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://wa.me/918953879027" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
 
 
 <!-- GitHub Stats Section-->
