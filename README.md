@@ -29,7 +29,7 @@
 
 
 
-## 🧾 Summary  
+## 🧾 About Me  
 Aspiring Full Stack Developer passionate about building scalable web applications and writing clean, efficient code. Skilled in **JavaScript, Node.js, and SQL**, with hands-on experience in both **frontend** and **backend** development.  Dedicated to continuous learning and creating impactful projects using modern technologies.
 
 ## 💼 Experience  
@@ -111,13 +111,13 @@ Aspiring Full Stack Developer passionate about building scalable web application
 
 ## 📂 Projects Zone
 
-<div  align="center">
+<div align="center">
 
 | S. No. | Project Name | Tech Used | GitHub Link | Live Demo |
 |:------:|---------------|-----------|--------------|------------|
-| 1 | **Dynamic Weather Dashboard** | HTML, CSS, JavaScript, OpenWeather API | <a href="https://github.com/prabhanshtiwari/Dynamic-Weather-Dashboard" target="_blank">Repo</a> | <a href="https://dynamic-weather-1234.netlify.app" target="_blank">Live</a> |
-| 2 | **Personal Portfolio Website** | HTML, CSS, Tailwind CSS, JavaScript | <a href="https://github.com/prabhanshtiwari/Portfolio" target="_blank">Repo</a> | <a href="https://prabhanshtiwari.netlify.app/" target="_blank">Live</a> |
-| 3 | *(Add More...)* | *(Tech Stack)* | <a href="#" target="_blank">Repo</a> | <a href="#" target="_blank">Live</a> |
+| 1 | **Dynamic Weather Dashboard** | HTML, CSS, JavaScript, OpenWeather API | <a href="https://github.com/prabhanshtiwari/Dynamic-Weather-Dashboard" target="_blank" style="color:#7CFC00; text-decoration:none;">Repo</a> | <a href="https://dynamic-weather-1234.netlify.app" target="_blank" style="color:#7CFC00; text-decoration:none;">Live</a> |
+| 2 | **Personal Portfolio Website** | HTML, CSS, Tailwind CSS, JavaScript | <a href="https://github.com/prabhanshtiwari/Portfolio" target="_blank" style="color:#7CFC00; text-decoration:none;">Repo</a> | <a href="https://prabhanshtiwari.netlify.app/" target="_blank" style="color:#7CFC00; text-decoration:none;">Live</a> |
+
 
 </div>
 
