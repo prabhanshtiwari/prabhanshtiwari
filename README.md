@@ -37,6 +37,44 @@ Aspiring Full Stack Developer passionate about building scalable web application
 |:---:|:-------:|:--------:|:---------:|:-------:|
 | <img src="https://skillicons.dev/icons?i=git" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> | <img src="https://skillicons.dev/icons?i=vscode" width="45" /> | <img src="https://skillicons.dev/icons?i=postman" width="45" /> | <img src="https://skillicons.dev/icons?i=linux" width="45" /> |
 
+
+## ⚔️ DSA Battleground  
+
+<table>
+<tr>
+<td width="55%" align="left">
+
+### 🧠 What I'm Up To  
+- Solving **Data Structures and Algorithms** questions daily.  
+- Practicing on **LeetCode** and **GeeksforGeeks** to strengthen problem-solving skills.  
+- Focused on improving logic building, pattern recognition, and speed.  
+- Preparing for **coding interviews** at top tech companies.  
+
+<br/>
+
+<p align="center">
+  <a href="https://leetcode.com/u/prabhanshtiwari/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/prabhanshtiwari/practice" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+  </a>
+</p>
+
+</td>
+
+<td width="45%" align="center">
+
+<a href="https://leetcode.com/u/prabhanshtiwari/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/prabhanshtiwari?theme=radical&font=Baloo%20Chettan%202&ext=heatmap" alt="LeetCode Stats" width="95%" />
+</a>
+
+</td>
+</tr>
+</table>
+
+
+
 ## 📂 Projects Zone
 
 | S. No. | Project Name | Tech Used | GitHub Link | Live Demo |
