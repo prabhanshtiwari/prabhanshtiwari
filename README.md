@@ -1,3 +1,14 @@
+
+
+<h1 align="center">👋 Hi, I'm Prabhansh Tiwari</h1>
+<h3 align="center">Aspiring Full Stack Developer | Passionate Learner | Problem Solver</h3>
+
+
+## 🧾 Summary  
+Aspiring Full Stack Developer passionate about building scalable web applications and writing clean, efficient code. Skilled in **JavaScript, Node.js, and SQL**, with hands-on experience in both **frontend** and **backend** development.  Dedicated to continuous learning and creating impactful projects using modern technologies.
+
+
+
 ## 🛠️ Technical Skills  
 
 ### 💻 Languages  
