@@ -129,12 +129,12 @@ Aspiring Full Stack Developer passionate about building scalable web application
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=prabhanshtiwari&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=prabhanshtiwari&theme=radical&hide_border=true" alt="GitHub Streak" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150em" />
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhanshtiwari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhanshtiwari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150em" />
   
 </div>
 
