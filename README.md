@@ -117,6 +117,7 @@ Aspiring Full Stack Developer passionate about building scalable web application
 |:------:|---------------|-----------|--------------|------------|
 | 1 | **Dynamic Weather Dashboard** | HTML, CSS, JavaScript, OpenWeather API | <a href="https://github.com/prabhanshtiwari/Dynamic-Weather-Dashboard" target="_blank" style="color:#7CFC00; text-decoration:none;">Repo</a> | <a href="https://dynamic-weather-1234.netlify.app" target="_blank" style="color:#7CFC00; text-decoration:none;">Live</a> |
 | 2 | **Personal Portfolio Website** | HTML, CSS, Tailwind CSS, JavaScript | <a href="https://github.com/prabhanshtiwari/Portfolio" target="_blank" style="color:#7CFC00; text-decoration:none;">Repo</a> | <a href="https://prabhanshtiwari.netlify.app/" target="_blank" style="color:#7CFC00; text-decoration:none;">Live</a> |
+| 3 | **Quiz Game** | HTML, CSS, JavaScript | <a href="https://github.com/prabhanshtiwari/quiz-game" target="_blank" style="color:#7CFC00; text-decoration:none;">Repo</a> | <a href="https://prabhanshtiwari.github.io/quiz-game/" target="_blank" style="color:#7CFC00; text-decoration:none;">Live</a> |
 
 
 </div>
