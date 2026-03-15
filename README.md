@@ -126,16 +126,39 @@ Aspiring Full Stack Developer passionate about building scalable web application
 
 <!-- GitHub Stats Section-->
 
-## 📊 GitHub Stats 
-
+## 📊 GitHub Stats
+ 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=prabhanshtiwari&theme=radical&hide_border=true" alt="GitHub Streak" height="150em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150em" />
-
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhanshtiwari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150em" />
-  
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhanshtiwari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170em" />
+ 
+<br/>
+ 
+<img src="https://streak-stats.demolab.com?user=prabhanshtiwari&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="170em" />
+ 
+<br/>
+ 
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhanshtiwari&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%" />
+ 
 </div>
+ 
+---
+
+ 
+<div align="center">
+ 
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+ 
+**⭐ If you find my work interesting, drop a star — it means the world!**
+ 
+<br/>
+ 
+*Open to full-time roles, internships, and freelance projects.*
+*📩 prabhansh.dev@gmail.com*
+ 
+</div>
+ 
 
