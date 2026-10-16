@@ -1,179 +1,120 @@
 <h1 align="center">Hi, I'm Prabhansh Tiwari 👋</h1>
-<h3 align="center">Full Stack Developer in Progress · Problem Solver · Technical Writer</h3>
+
+<h3 align="center">Full-Stack Web Developer · MERN Stack · Problem Solver · Technical Writer</h3>
 
 <p align="center">
-  <a href="mailto:prabhansh.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/prabhanshtiwari">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/prabhanshtiwari">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://dev.to/prabhanshtiwari">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" />
-  </a>
-  <a href="https://twitter.com/prabhanshdev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/prabhanshtiwari2024">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://prabhanshtiwari.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://wa.me/918953879027" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  <a href="https://prabhanshtiwari.com"><img src="https://img.shields.io/badge/Website-prabhanshtiwari.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
+  <a href="mailto:prabhansh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/prabhanshtiwari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/prabhanshtiwari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://dev.to/prabhanshtiwari"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://x.com/prabhanshdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/prabhanshtiwari2024"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://wa.me/918953879027"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
 
-## 🧾 About Me
+## 👨‍💻 About Me
 
-I'm a Full Stack Developer (in the making) who enjoys turning ideas into real, working products on the web. My focus is on writing clean, maintainable code — both on the frontend and backend — using modern tools like **JavaScript, Node.js, React, and SQL**.
+I'm a BCA graduate who enjoys turning ideas into useful web products. I work across the frontend and backend, building responsive interfaces, REST APIs, authentication flows, and database-backed features with modern JavaScript technologies.
 
-Beyond building things, I write technical articles on [dev.to](https://dev.to/prabhanshtiwari) to document what I learn and share it with the community. I'm currently deep into **DSA**, sharpening my problem-solving skills daily, and looking for opportunities to contribute to impactful projects.
+I also write technical articles to document what I learn and make concepts easier for other developers. I'm strengthening my problem-solving skills through Data Structures and Algorithms while continuing to build practical projects.
 
-> *I learn in public, build with purpose, and write to solidify understanding.*
+> I learn in public, build with purpose, and write to understand things deeply.
+
+- 🌐 Portfolio: [prabhanshtiwari.com](https://prabhanshtiwari.com)
+- ✍️ Articles: [dev.to/prabhanshtiwari](https://dev.to/prabhanshtiwari)
+- 🧠 Current focus: DSA, full-stack development, REST APIs, authentication, and deployment
+- 🤝 Open to: Full-time roles, internships, and freelance projects
+
+---
+
+## 🚀 Deployed Projects
+
+Featured live projects are ordered with the newest project work first.
+
+| Project | What it does | Tech stack | Links |
+|---|---|---|---|
+| **P.N. Central Academy** | Full-stack school website with public information pages, admissions resources, notices, faculty directory, gallery, enquiries, and an admin dashboard. | React, Vite, Tailwind CSS, Node.js, Express, MongoDB | [Live site](https://pn-central-academy.vercel.app/) · [Source code](https://github.com/prabhanshtiwari/pn-central-academy) |
+| **Bootle Village Stores & Post Office** | Responsive website for a local village store, with store information, product highlights, map/directions, and call, email, and WhatsApp contact actions. | React, Vite, Tailwind CSS v4 | [Live site](https://bootlestores.netlify.app/) · [Source code](https://github.com/prabhanshtiwari/bootle-village-stores) |
+| **Personal Website & Portfolio** | Personal site for my profile, development work, and contact details. | HTML, CSS, Tailwind CSS, JavaScript | [Live website](https://prabhanshtiwari.com) · [Portfolio repository](https://github.com/prabhanshtiwari/Portfolio) |
+| **Dynamic Weather Dashboard** | Weather dashboard that retrieves and displays weather information using a weather API. | HTML, CSS, JavaScript, OpenWeather API | [Live demo](https://dynamic-weather-1234.netlify.app/) · [Source code](https://github.com/prabhanshtiwari/Dynamic-Weather-Dashboard) |
+| **Quiz Game** | Lightweight browser-based quiz game built with vanilla web technologies. | HTML, CSS, JavaScript | [Live demo](https://prabhanshtiwari.github.io/quiz-game/) · [Source code](https://github.com/prabhanshtiwari/quiz-game) |
 
 ---
 
 ## 💼 Experience
 
-### 🧑‍💻 Frontend Web Development Intern — [Edunet Foundation](https://edunetfoundation.org/)
-📍 *Remote* | 🗓️ *Aug 2025 – Oct 2025*
+### Frontend Web Development Intern — [Edunet Foundation](https://edunetfoundation.org/)
 
-- Built responsive UI components using **HTML**, **CSS**, and **JavaScript**, following industry best practices.
-- Completed a real-world project independently under mentor guidance, applying design thinking and problem-solving at each step.
-- Engaged in structured learning modules covering **frontend development fundamentals** and modern web standards.
+**Remote · August 2025 – October 2025**
+
+- Built responsive UI components using HTML, CSS, and JavaScript.
+- Completed a practical project independently with mentor guidance.
+- Applied frontend fundamentals, responsive design, and modern web standards to project work.
 
 ---
 
-## ✍️ Technical Writing — dev.to
+## ✍️ Technical Writing & Learning Repositories
 
-I write developer-focused articles on [dev.to/@prabhanshtiwari](https://dev.to/prabhanshtiwari). Topics range from web development concepts to things I'm actively learning and building.
+I use GitHub to keep my notes, examples, and articles organised and version-controlled.
 
-> **Single source of truth:** All blog posts originate from my [`my-blogs`](https://github.com/prabhanshtiwari/my-blogs) repository — written in Markdown, version-controlled, and published to dev.to.
-
-<p align="left">
-  <a href="https://dev.to/prabhanshtiwari" target="_blank">
-    <img src="https://img.shields.io/badge/Read%20my%20articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to articles" />
-  </a>
-  <a href="https://github.com/prabhanshtiwari/my-blogs" target="_blank">
-    <img src="https://img.shields.io/badge/Blog%20Source%20Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="my-blogs repo" />
-  </a>
-</p>
+- **[My Blogs](https://github.com/prabhanshtiwari/my-blogs)** — Markdown source for articles published on [dev.to](https://dev.to/prabhanshtiwari).
+- **[Chai aur React](https://github.com/prabhanshtiwari/chai-aur-react)** — React learning journal, interview notes, and hands-on practice projects.
+- **[Chai aur JavaScript](https://github.com/prabhanshtiwari/Chai-aur-Javascript)** — JavaScript concepts, code examples, and structured notes.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages
-| JavaScript | C++ | HTML5 | CSS3 | SQL |
-|:-----------:|:---:|:-----:|:----:|:---:|
-| <img src="https://skillicons.dev/icons?i=js" width="45" /> | <img src="https://skillicons.dev/icons?i=cpp" width="45" /> | <img src="https://skillicons.dev/icons?i=html" width="45" /> | <img src="https://skillicons.dev/icons?i=css" width="45" /> | <img src="https://skillicons.dev/icons?i=sqlite" width="45" /> |
-
-### ⚙️ Frameworks & Libraries
-| Node.js | Express | React | Bootstrap | Tailwind CSS |
-|:--------:|:--------:|:------:|:-----------:|:--------------:|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="45" /> | <img src="https://skillicons.dev/icons?i=express" width="45" /> | <img src="https://skillicons.dev/icons?i=react" width="45" /> | <img src="https://skillicons.dev/icons?i=bootstrap" width="45" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="45" /> |
-
-### 🗄️ Databases
-| MongoDB | MySQL | PostgreSQL |
-|:--------:|:------:|:-----------:|
-| <img src="https://skillicons.dev/icons?i=mongodb" width="45" /> | <img src="https://skillicons.dev/icons?i=mysql" width="45" /> | <img src="https://skillicons.dev/icons?i=postgres" width="45" /> |
-
-### 🧰 Tools & Platforms
-| Git | GitHub | VS Code | Postman | Linux |
-|:---:|:-------:|:--------:|:---------:|:-------:|
-| <img src="https://skillicons.dev/icons?i=git" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> | <img src="https://skillicons.dev/icons?i=vscode" width="45" /> | <img src="https://skillicons.dev/icons?i=postman" width="45" /> | <img src="https://skillicons.dev/icons?i=linux" width="45" /> |
-
----
-<!---
-## ⚔️ DSA Battleground
-
-<table>
-<tr>
-<td width="55%" align="left">
-
-### 🧠 What I'm Up To
-- Solving **Data Structures & Algorithms** problems daily.
-- Practicing on **LeetCode** and **GeeksforGeeks** to develop sharper problem-solving instincts.
-- Focused on logic building, pattern recognition, and reducing time complexity.
-- Actively preparing for **coding interviews** at product-based companies.
-
-<br/>
-
-<p align="center">
-  <a href="https://leetcode.com/u/prabhanshtiwari/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/prabhanshtiwari/practice" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
-  </a>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,cpp,html,css" alt="JavaScript, C++, HTML, and CSS" />
 </p>
 
-</td>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" alt="React, Vite, Tailwind CSS, and Bootstrap" />
+</p>
 
-<td width="45%" align="center">
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" alt="Node.js, Express, MongoDB, MySQL, and PostgreSQL" />
+</p>
 
-<a href="https://leetcode.com/u/prabhanshtiwari/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/prabhanshtiwari?theme=radical&font=Baloo%20Chettan%202&ext=heatmap" alt="LeetCode Stats" width="95%" />
-</a>
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Git, GitHub, VS Code, Postman, and Linux" />
+</p>
 
-</td>
-</tr>
-</table>
-
-
-
----
--->
-
-## 📂 Projects
-
-<div align="center">
-
-| S. No. | Project | Tech Stack | Repo | Live |
-|:------:|---------|------------|------|------|
-| 1 | **Dynamic Weather Dashboard** | HTML, CSS, JavaScript, OpenWeather API | <a href="https://github.com/prabhanshtiwari/Dynamic-Weather-Dashboard" target="_blank">GitHub</a> | <a href="https://dynamic-weather-1234.netlify.app" target="_blank">Live</a> |
-| 2 | **Personal Portfolio Website** | HTML, CSS, Tailwind CSS, JavaScript | <a href="https://github.com/prabhanshtiwari/Portfolio" target="_blank">GitHub</a> | <a href="https://prabhanshtiwari.netlify.app/" target="_blank">Live</a> |
-| 3 | **Quiz Game** | HTML, CSS, JavaScript | <a href="https://github.com/prabhanshtiwari/quiz-game" target="_blank">GitHub</a> | <a href="https://prabhanshtiwari.github.io/quiz-game/" target="_blank">Live</a> |
-
-</div>
+**Also familiar with:** REST APIs, JWT-based authentication, Mongoose, SQL, environment configuration, and API testing.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhanshtiwari&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=prabhanshtiwari&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhanshtiwari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170em" />
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=prabhanshtiwari&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=prabhanshtiwari&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" height="170em" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhanshtiwari&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=prabhanshtiwari&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
 
 ---
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-**⭐ If you find my work useful or interesting, a star goes a long way!**
-
-<br/>
-
-*Open to full-time roles, internships, and freelance projects.*  
-*📩 prabhansh.dev@gmail.com*
-
-</div>
+<p align="center">
+  <strong>Thanks for visiting my profile!</strong><br />
+  If something here is useful, feel free to explore the repositories or connect with me.
+  <br /><br />
+  <a href="https://prabhanshtiwari.com">Website</a> ·
+  <a href="https://github.com/prabhanshtiwari">GitHub</a> ·
+  <a href="https://dev.to/prabhanshtiwari">Articles</a> ·
+  <a href="mailto:prabhansh.dev@gmail.com">Contact</a>
+</p>
